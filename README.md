@@ -5,7 +5,6 @@ I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps cul
 
 - 🌱 I’m currently: learning and job searching.
 - 👯 I’m looking to collaborate on: Cloud Engineering and DevOps.
-- 🤔 I’m looking for help with: , FOSS
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love music
 
