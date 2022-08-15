@@ -4,10 +4,9 @@
 I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
 
 - 🌱 I’m currently learning: Kubernetes
-- 👯 I’m looking to collaborate on: Cloud Native, DevOps, Backend systems, Documentation, and Technical writing .
-- 🤔 I’m looking for help with: Open-source Communities, FOSS
+- 👯 I’m looking to collaborate on:DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
-- ⚡ Fun fact: I love bananas
+- ⚡ Fun fact: I love music 🎧🎧
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
