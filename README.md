@@ -3,10 +3,11 @@
 <h1>Hi I am Micah Shallom</h1>
 I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
 
-- 🌱 I’m currently: learning and job searching.
-- 👯 I’m looking to collaborate on: Cloud Engineering and DevOps.
+- 🌱 I’m currently learning: Kubernetes
+- 👯 I’m looking to collaborate on: Cloud Native, DevOps, Backend systems, Documentation, and Technical writing .
+- 🤔 I’m looking for help with: Open-source Communities, FOSS
 - 😊 Pronouns: he/him
-- ⚡ Fun fact: I love music
+- ⚡ Fun fact: I love bananas
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
@@ -53,4 +54,12 @@ I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps cul
   </a>
 </p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Micah-Shallom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Micah-Shallom&bg_color=0D1117)  
+
+![GitHub metrics](https://metrics.lecoq.io/Micah-Shallom)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
