@@ -53,11 +53,11 @@ I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps cul
   </a>
 </p>
 
- ## Visitor Count
+ 
+ <center>
+  ## Visitor Count
   ![Visitor Count](https://profile-counter.glitch.me/{Micah-Shallom}/count.svg)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Micah-Shallom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</center>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Micah-Shallom&bg_color=0D1117)  
 
