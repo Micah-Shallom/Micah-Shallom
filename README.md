@@ -42,16 +42,6 @@ I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps cul
   <a href="mailto:micahshallom@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
-## 📈 Github Stats
-<p align="center">
-  <a href="https://github.com/Micah-Shallom/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micah-Shallom&langs_count=10&layout=compact&theme=vue-dark&repo=github-readme-stats"  height=220  />
-  </a>
-
-  <a href="https://github.com/Micah-Shallom/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Micah-Shallom&show_icons=true&theme=vue-dark" height=220 />
-  </a>
-</p>
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{Micah-Shallom}/count.svg)
