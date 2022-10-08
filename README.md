@@ -12,9 +12,7 @@ I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps cul
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IAC-AWSCloudFormation-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Metric_Dashboard-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB/Mongoose-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
@@ -29,7 +27,6 @@ I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps cul
 ![](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ordchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
