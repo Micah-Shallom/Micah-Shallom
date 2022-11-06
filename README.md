@@ -6,7 +6,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 - 🌱 I’m currently learning: Kubernetes
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
-- ⚡ Fun fact: I love music 🎧🎧
+- ⚡ Fun fact: I love music 🎧🎧 like crazy. Favourite genres are pop, indie and folk
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
