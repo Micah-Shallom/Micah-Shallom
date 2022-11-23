@@ -1,6 +1,9 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250)
+<img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" height="100px">
+
+
+<!-- ![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250) -->
 
 <hr>
 <h1>I am Micah Shallom</h1>
