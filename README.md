@@ -3,6 +3,9 @@
 <h1>I am Micah Shallom</h1>
 I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
 
+![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif)
+
+
 - 🌱 I’m currently learning: Kubernetes
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
