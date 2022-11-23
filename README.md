@@ -1,6 +1,5 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-<img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" width="100%" height="700px">
 
 
 <!-- ![vins-aws-ecr](https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif =250x250) -->
@@ -15,6 +14,9 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love music 🎧🎧 like crazy. Favourite genres are pop, indie and folk
+
+<img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" width="90%" height="650px">
+
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
