@@ -15,7 +15,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love music 🎧🎧 like crazy. Favourite genres are pop, indie and folk
 
-<img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border_radius="5px" width="95%" height="600px">
+<img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px">
 
 
 ## 🔧Technologies and Tools
