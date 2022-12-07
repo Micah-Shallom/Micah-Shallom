@@ -14,7 +14,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love music 🎧🎧 like crazy. Favourite genres are pop, indie and folk
-- 🎧 Billie Eillish, Le`on, Gregory Alan Isakov, Hugo Bariol, Sia
+- 🎧 Billie Eillish, Le`on, Gregory Alan Isakov, Hugo Bariol, Sia, Tom Rosenthal
 
 <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px">
 
