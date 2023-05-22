@@ -59,8 +59,6 @@ src="https://img.shields.io/github/followers/Micah-Shallom?logo=github&style=for
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{Micah-Shallom}/count.svg)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Micah-Shallom&bg_color=0D1117)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Micah-Shallom)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
