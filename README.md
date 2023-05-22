@@ -65,3 +65,9 @@ src="https://img.shields.io/github/followers/Micah-Shallom?logo=github&style=for
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
+#### Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+#### Support Me
+<a href="https://www.buymeacoffee.com/micahshallom"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
