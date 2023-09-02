@@ -10,7 +10,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 
 
 
-- 🌱 I’m currently learning: Kubernetes
+- 🌱 I’m currently learning: Kubernetes and golang
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love and adore music 🎧🎧. Favourite genres are pop, indie and folk
