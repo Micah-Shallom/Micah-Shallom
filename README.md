@@ -19,7 +19,7 @@ I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, 
 - 📖 My best quote is “Nothing can take the place of persistence; talent will not, genius will not; education alone will not; persistence and determination alone are omnipotent”
 <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px">
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4K9OTkRXEFL6NDXFTqVmq9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 <a href="https://www.twitter.com/Micah_Shallom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Micah_Shallom?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://www.github.com//Micah-Shallom" target="_blank" rel="noreferrer"><img
