@@ -8,14 +8,11 @@
 <h1>I am Micah Shallom Bawa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
 
-
-
 - 🌱 I’m currently learning: Kubernetes and golang
 - 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love and adore music 🎧🎧. Favourite genres are pop, indie and folk
 - 🎧 Billie Eillish, Le`on, Gregory Alan Isakov, Hugo Bariol, Sia, Tom Rosenthal, Ghostly Kisses
-- Spotify - https://t.co/5dBbu5ImEu
 - 📖 My best quote is “Nothing can take the place of persistence; talent will not, genius will not; education alone will not; persistence and determination alone are omnipotent”
 <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px">
 
@@ -71,12 +68,15 @@ src="https://img.shields.io/github/followers/Micah-Shallom?logo=github&style=for
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-#### Support Me
-<a href="https://www.buymeacoffee.com/micahshallom"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ### Currently Playing on Spotify 🎧🎧
 
 <a href="https://open.spotify.com/user/maexmmoqb2i3m5ckj2cknj399">
   <img src="https://spotify-readme.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </a>
+
+
+#### Support Me
+<a href="https://www.buymeacoffee.com/micahshallom"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
 
