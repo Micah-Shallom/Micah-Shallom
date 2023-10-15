@@ -74,3 +74,7 @@ src="https://img.shields.io/github/followers/Micah-Shallom?logo=github&style=for
 #### Support Me
 <a href="https://www.buymeacoffee.com/micahshallom"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+<a href="https://github.com/Micah-Shallom/Spotify-Readme">
+  <img src="https://spotify-readme-git-main-micah-shallom.vercel.app" alt="Current Spotify Song">
+</a>
+
