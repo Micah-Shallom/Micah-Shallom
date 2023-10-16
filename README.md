@@ -8,8 +8,8 @@
 <h1>I am Micah Shallom Bawa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 I'm a DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, Infrastructure Automation.
 
-- 🌱 I’m currently learning: Kubernetes and golang
-- 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
+- 🌱 I’m currently learning: Kubernetes and Golang
+- 👯 I’m looking to collaborate on: DevOps,Cloud and Software Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love and adore music 🎧🎧. Favourite genres are pop, indie and folk
 - 🎧 Billie Eillish, Le`on, Gregory Alan Isakov, Hugo Bariol, Sia, Tom Rosenthal, Ghostly Kisses
