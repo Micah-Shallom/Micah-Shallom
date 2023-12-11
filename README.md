@@ -68,11 +68,7 @@ src="https://img.shields.io/github/followers/Micah-Shallom?logo=github&style=for
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### Currently Playing on Spotify 🎧🎧
-
-<a href="https://open.spotify.com/user/maexmmoqb2i3m5ckj2cknj399">
-  <img src="https://spotify-readme.vercel.app/api?theme=dark" alt="Current Spotify Song">
-</a>
+[![GitHub Trends SVG](https://api.githubtrends.io/Micah-Shallom/svg/avgupta456/langs)](https://githubtrends.io)
 
 
 #### Support Me
