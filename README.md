@@ -6,10 +6,10 @@
 
 <hr>
 <h1>I am Micah Shallom Bawa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-I'm a DevOps Engineer. I am passionate about Cloud engineering, Infrastructure Automation and Software Engineering.
+I'm a Software Engineer. I am passionate about Cloud engineering, Infrastructure Automation and Software Engineering.
 
 - 🌱 I’m currently learning: Kubernetes and Golang
-- 👯 I’m looking to collaborate on: DevOps,Cloud and Software Engineering.
+- 👯 I’m looking to collaborate on: DevOps, Cloud and Software Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love and adore music 🎧🎧. Favourite genres are pop, indie and folk
 - 🎧 Billie Eillish, Le`on, Gregory Alan Isakov, Hugo Bariol, Sia, Tom Rosenthal, Ghostly Kisses
@@ -67,9 +67,6 @@ src="https://img.shields.io/github/followers/Micah-Shallom?logo=github&style=for
 
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/Micah-Shallom/svg/avgupta456/langs)](https://githubtrends.io)
-
 
 #### Support Me
 <a href="https://www.buymeacoffee.com/micahshallom"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
