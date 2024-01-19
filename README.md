@@ -69,6 +69,7 @@ For future use
 <a href="https://leetcode.com//">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<!-->
 
 ![GitHub metrics](https://metrics.lecoq.io/Micah-Shallom)  
 
