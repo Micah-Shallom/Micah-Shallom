@@ -2,7 +2,7 @@
 
 <h1>I am Micah Shallom Bawa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> -->
 
 ![68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966](https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/80bfae28-685f-414e-b5f0-3b4ef8084bb1)
 
@@ -29,7 +29,7 @@ I'm a Software Engineer. I am passionate about Cloud engineering, Infrastructure
 src="https://img.shields.io/github/followers/Micah-Shallom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-## 🔧Technologies and Tools
+## 🔧Technologies and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IAC-AWSCloudFormation-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
