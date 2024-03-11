@@ -77,7 +77,7 @@ For future use
 </a>
 <!-->
 
-![GitHub metrics](https://metrics.lecoq.io/Micah-Shallom)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Micah-Shallom) -->  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
