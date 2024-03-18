@@ -81,6 +81,8 @@ For future use
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=dark&border=no-border" />
+
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
