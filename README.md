@@ -14,7 +14,7 @@
 
 I'm a Software Engineer. I am passionate about Cloud engineering, Infrastructure Automation and Software Engineering.
 
-- 🌱 I’m currently learning: Kubernetes and Golang
+- 🌱 I’m currently learning: RUST and Blockchain Engineering
 - 👯 I’m looking to collaborate on: DevOps, Cloud and Software Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love and adore music 🎧🎧. Favourite genres are pop, indie and folk
