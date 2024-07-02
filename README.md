@@ -77,6 +77,7 @@ For future use
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
 <a href="https://leetcode.com/micahshallom/"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=dark&border=no-border" /> </a>
+![gyomei2](https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/fc0995e8-2989-421e-9809-e4e51d7b5398)
 
 
 #### Quotes
