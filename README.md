@@ -46,19 +46,6 @@ I'm a Software Engineer. I am passionate about Cloud engineering, Infrastructure
 ![](https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
-## 🤝 Let's connect
-
-<p align="center">
-  <a href="https://twitter.com/micah_shallom"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://hashnode.com/@Shallom"><img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/micah-shallom/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
-    <a href="https://www.hackerrank.com/micahshallom">
-    <img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>
-  <a href="mailto:micahshallom@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
-</p>
-
-
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{Micah-Shallom}/count.svg)
 
