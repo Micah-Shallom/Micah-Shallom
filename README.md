@@ -49,22 +49,11 @@ I'm a Software Engineer. I am passionate about Cloud engineering, Infrastructure
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{Micah-Shallom}/count.svg)
 
-<!--
-For future use
-<a href="https://www.instagram.com/hemant.gz/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<!-->
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/Micah-Shallom) -->  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
 <a href="https://leetcode.com/micahshallom/"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /> </a> 
 
+![wakatime_stats](https://wakatime.com/share/@mshallom/b6f8dda8-540c-4ecd-a9c4-0b8267c8f5b5.svg)
 
 
 #### Quotes
@@ -74,6 +63,3 @@ For future use
 <a href="https://www.buymeacoffee.com/micahshallom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ![gyomei2](https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/fc0995e8-2989-421e-9809-e4e51d7b5398)
-
-
-
