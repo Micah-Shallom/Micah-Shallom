@@ -53,7 +53,7 @@ I'm a Software Engineer. I am passionate about Cloud engineering, Infrastructure
 
 <a href="https://leetcode.com/micahshallom/"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /> </a> 
 
-![wakatime_stats](https://wakatime.com/share/@mshallom/b6f8dda8-540c-4ecd-a9c4-0b8267c8f5b5.svg)
+<!-- ![wakatime_stats](https://wakatime.com/share/@mshallom/b6f8dda8-540c-4ecd-a9c4-0b8267c8f5b5.svg) -->
 
 
 #### Quotes
