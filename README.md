@@ -12,13 +12,12 @@
 
 <hr>
 
-I'm a Software Engineer. I am passionate about Cloud engineering, Infrastructure Automation and Software Engineering.
+I'm a Software Engineer. I am passionate about Cloud & Software Engineering, DataStructures & Algorithms and Distributed Systems.
 
 - 🌱 I’m currently learning: RUST and Blockchain Engineering
 - 👯 I’m looking to collaborate on: DevOps, Cloud and Software Engineering.
 - 😊 Pronouns: he/him
 - ⚡ Fun fact: I love and adore music 🎧🎧. Favourite genres are pop, indie and folk
-- 🎧 Billie Eillish, Le`on, Gregory Alan Isakov, Hugo Bariol, Sia, Tom Rosenthal, Ghostly Kisses
 - 📖 My best quote is “Nothing can take the place of persistence; talent will not, genius will not; education alone will not; persistence and determination alone are omnipotent”
 <!-- <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px"> -->
 
