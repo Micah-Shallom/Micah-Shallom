@@ -61,6 +61,9 @@ I'm a Software Engineer. I am passionate about Cloud & Software Engineering, Dat
 #### Support Me
 <a href="https://www.buymeacoffee.com/micahshallom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@mshallom/fec25248-820c-471a-b773-e0e90050c8f6.png" /></a>
-
-![gyomei2](https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/fc0995e8-2989-421e-9809-e4e51d7b5398)
+<div style="width: 100%; display: flex; flex-direction: column;">
+  <a href="https://wakatime.com" style="width: 100%;">
+    <img src="https://wakatime.com/share/@mshallom/fec25248-820c-471a-b773-e0e90050c8f6.png" style="width: 100%; height: 70%;" />
+  </a>
+  <img src="https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/fc0995e8-2989-421e-9809-e4e51d7b5398" style="width: 100%; height: 70%;" />
+</div>
