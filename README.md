@@ -45,18 +45,31 @@ I'm a Software Engineer. I am passionate about Cloud & Software Engineering, Dat
 ![](https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{Micah-Shallom}/count.svg)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
-
-<a href="https://leetcode.com/micahshallom/"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /> </a> 
-
-<!-- ![wakatime_stats](https://wakatime.com/share/@mshallom/b6f8dda8-540c-4ecd-a9c4-0b8267c8f5b5.svg) -->
+| LeetCode | Duolingo Stats |
+|----------|----------------|
+| <a href="https://leetcode.com/micahshallom/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /></a> | <a href="https://www.duolingo.com/profile/ShallomMic"><img src="https://duolingo-stats-card.vercel.app/api?username=ShallomMic&theme=monokai&sort=xp" /></a> |
 
 
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Micah-Shallom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micah-Shallom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micah-Shallom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2BBC8A&line=2BBC8A&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
 
 #### Support Me
 <a href="https://www.buymeacoffee.com/micahshallom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
@@ -67,3 +80,4 @@ I'm a Software Engineer. I am passionate about Cloud & Software Engineering, Dat
   </a>
   <img src="https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/fc0995e8-2989-421e-9809-e4e51d7b5398" style="width: 100%; height: 70%;" />
 </div>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
