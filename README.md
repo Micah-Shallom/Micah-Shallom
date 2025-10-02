@@ -78,6 +78,8 @@ I'm a Software Engineer. I am passionate about Cloud & Software Engineering, Dat
   <a href="https://wakatime.com" style="width: 100%;">
     <img src="https://wakatime.com/share/@mshallom/fec25248-820c-471a-b773-e0e90050c8f6.png" style="width: 100%; height: 70%;" />
   </a>
-  <img src="https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/fc0995e8-2989-421e-9809-e4e51d7b5398" style="width: 100%; height: 70%;" />
+  <!-- <img src="https://github.com/Micah-Shallom/Micah-Shallom/assets/64049432/fc0995e8-2989-421e-9809-e4e51d7b5398" style="width: 100%; height: 70%;" /> -->
+  <img src="https://github.com/user-attachments/assets/4efe7cca-e261-4eef-aeb7-13ecb8826db5" style="width: 1100px; height: 70%;" />
+
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
