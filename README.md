@@ -55,22 +55,6 @@ I'm a Software Engineer. I am passionate about Cloud & Software Engineering, Dat
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Micah-Shallom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micah-Shallom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Micah-Shallom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2BBC8A&line=2BBC8A&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-
 #### Support Me
 <a href="https://www.buymeacoffee.com/micahshallom" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
