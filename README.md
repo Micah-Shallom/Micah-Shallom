@@ -47,10 +47,9 @@ I'm a Software Engineer. I am passionate about Cloud & Software Engineering, Dat
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
-| LeetCode | Duolingo Stats |
-|----------|----------------|
-| <a href="https://leetcode.com/micahshallom/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /></a> | <a href="https://www.duolingo.com/profile/ShallomMic"><img src="https://duolingo-stats-card.vercel.app/api?username=ShallomMic&theme=monokai&sort=xp" /></a> |
-
+| LeetCode | 
+|----------|
+| <a href="https://leetcode.com/micahshallom/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /></a> |
 
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
