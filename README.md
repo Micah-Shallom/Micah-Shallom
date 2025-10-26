@@ -49,7 +49,7 @@ I'm a Software Engineer. I am passionate about Cloud & Software Engineering, Dat
 
 | LeetCode | Duolingo Stats |
 |----------|----------------|
-| <a href="https://leetcode.com/micahshallom/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /></a> | <a href="https://www.duolingo.com/profile/ShallomMic"><img src="https://duolingo-stats-card.vercel.app/api?username=ShallomMic&theme=monokai&sort=xp" /></a> |
+| <a href="https://leetcode.com/micahshallom/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /></a> | <a href="https://www.duolingo.com/profile/ShallomMic"><img src="https://duolingo-stats-card.vercel.app/api?username=stonepillar&theme=monokai&sort=xp" /></a> |
 
 #### Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
