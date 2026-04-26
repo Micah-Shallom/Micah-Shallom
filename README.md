@@ -45,7 +45,9 @@ I'm a Software Engineer. I am passionate about Cloud & Software Engineering, Dat
 ![](https://img.shields.io/badge/Orchestration_Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+<div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub streak stats" />
+</div>
 
 | LeetCode | Duolingo Stats |
 |----------|----------------|
