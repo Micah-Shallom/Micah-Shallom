@@ -15,8 +15,4 @@ I'm a Software Engineer passionate about Bitcoin, Distributed Systems, Cloud & S
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub streak stats" />
 </div>
 
-| LeetCode | Duolingo Stats |
-|----------|----------------|
-| <a href="https://leetcode.com/micahshallom/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=micahshallom&theme=onedark&border=no-border" /></a> | <a href="https://www.duolingo.com/profile/ShallomMic"><img src="https://duolingo-stats-card.vercel.app/api?username=stonepillar&theme=monokai&sort=xp" /></a> |
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
