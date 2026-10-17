@@ -10,7 +10,7 @@ I'm a Software Engineer working on Bitcoin infrastructure and distributed system
 - Contributing to open-source Bitcoin infrastructure, including [Floresta](https://github.com/getfloresta/Floresta), a Utreexo-powered full node in Rust
 
 **Outside of Code:**
-- ⚡ I love and adore music 🎧. Favourite genres are pop, indie and folk
+- ⚡ I love and adore music 🎧. Favourite genres are pop, indie and folk. Find me on [Spotify](https://open.spotify.com/user/maexmmoqb2i3m5ckj2cknj399)
 - 📖 “Nothing can take the place of persistence; talent will not, genius will not; education alone will not; persistence and determination alone are omnipotent”
 
 [![wakatime](https://wakatime.com/badge/user/18b69119-fe28-4706-92ad-d40452866383.svg)](https://wakatime.com/@18b69119-fe28-4706-92ad-d40452866383)
