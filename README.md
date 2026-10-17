@@ -2,6 +2,13 @@
 
 I'm a Software Engineer passionate about Bitcoin, Distributed Systems, Cloud & Software Engineering.
 
+### What I love doing
+
+- 🧩 Designing distributed systems in Go and Rust: P2P networking, replication, fault tolerance, and keeping state consistent across nodes
+- ⚙️ Building high-throughput backend services with async Rust (tokio) and Go's goroutines and channels, focused on low latency and safe concurrency
+- 🏗️ System design end to end: service boundaries, REST/gRPC/JSON-RPC API design, schema modeling, indexing, and storage engine trade-offs
+- 🌐 Full-stack development when the problem needs it, picking the right language and framework rather than forcing one
+
 - ⚡ Fun fact: I love and adore music 🎧🎧. Favourite genres are pop, indie and folk
 - 📖 “Nothing can take the place of persistence; talent will not, genius will not; education alone will not; persistence and determination alone are omnipotent”
 
