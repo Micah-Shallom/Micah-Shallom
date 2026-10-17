@@ -1,6 +1,6 @@
 <h1>I am Micah Shallom Bawa <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-I'm a Software Engineer passionate about Bitcoin, Distributed Systems, Cloud & Software Engineering.
+I'm a Software Engineer working on Bitcoin infrastructure and distributed systems.
 
 **What I Work On:**
 - Architecting and building distributed systems in Go and Rust
@@ -9,7 +9,8 @@ I'm a Software Engineer passionate about Bitcoin, Distributed Systems, Cloud & S
 - Full-stack development across a range of languages and frameworks
 - Contributing to open-source Bitcoin infrastructure, including [Floresta](https://github.com/getfloresta/Floresta), a Utreexo-powered full node in Rust
 
-- ⚡ Fun fact: I love and adore music 🎧🎧. Favourite genres are pop, indie and folk
+**Outside of Code:**
+- ⚡ I love and adore music 🎧. Favourite genres are pop, indie and folk
 - 📖 “Nothing can take the place of persistence; talent will not, genius will not; education alone will not; persistence and determination alone are omnipotent”
 
 [![wakatime](https://wakatime.com/badge/user/18b69119-fe28-4706-92ad-d40452866383.svg)](https://wakatime.com/@18b69119-fe28-4706-92ad-d40452866383)
